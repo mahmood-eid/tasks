@@ -6,3 +6,11 @@ body {
     align-items: center;
     font-family: sans-serif;
 }
+
+.btn {
+    background-color: pink;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
